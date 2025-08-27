@@ -1,0 +1,100 @@
+=== EMAIL LOG ===
+Date: 2025-08-27 12:33:00
+To: careers@sofindex.com
+From: careers@sofindex.com
+Subject: New Job Application: Software Engineer - Anas Bayoumy
+Body Length: 6412 characters
+================
+
+=== EMAIL LOG ===
+Date: 2025-08-27 12:33:00
+To: anasbayoumy20@gmail.com
+From: careers@sofindex.com
+Subject: Application Received - Software Engineer | SOFINDEX Careers
+Body Length: 6507 characters
+================
+
+=== STARTING EMAIL SENDING PROCESS ===
+Date: 2025-08-27 14:39:17
+Application ID: 999
+Job Title: Test Position
+Applicant: Test User
+================
+
+=== HOSTINGER EMAIL LOG ===
+Date: 2025-08-27 14:39:17
+To: careers@sofindex.com
+From: careers@sofindex.com
+Subject: New Job Application: Test Position - Test User
+Body Length: 6334 characters
+Headers: MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+From: SOFINDEX Careers <careers@sofindex.com>
+Reply-To: careers@sofindex.com
+X-Mailer: PHP/8.4.11
+================
+
+Email sending result: FAILED
+Admin email result: FAILED
+=== HOSTINGER EMAIL LOG ===
+Date: 2025-08-27 14:39:19
+To: test@example.com
+From: careers@sofindex.com
+Subject: Application Received - Test Position | SOFINDEX Careers
+Body Length: 6460 characters
+Headers: MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+From: SOFINDEX Careers <careers@sofindex.com>
+Reply-To: careers@sofindex.com
+X-Mailer: PHP/8.4.11
+================
+
+Email sending result: FAILED
+Applicant email result: FAILED
+=== EMAIL SENDING PROCESS COMPLETED ===
+Admin email: FAILED
+Applicant email: FAILED
+================
+
+=== STARTING EMAIL SENDING PROCESS ===
+Date: 2025-08-27 15:46:47
+Application ID: 31
+Job Title: Data Scientist
+Applicant: Anas Bayoumy
+================
+
+=== HOSTINGER EMAIL LOG ===
+Date: 2025-08-27 15:46:47
+To: careers@sofindex.com
+From: careers@sofindex.com
+Subject: New Job Application: Data Scientist - Anas Bayoumy
+Body Length: 6398 characters
+Headers: MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+From: SOFINDEX Careers <careers@sofindex.com>
+Reply-To: careers@sofindex.com
+X-Mailer: PHP/8.4.11
+================
+
+Email sending result: FAILED
+Admin email result: FAILED
+=== HOSTINGER EMAIL LOG ===
+Date: 2025-08-27 15:46:49
+To: anasbayoumy20@gmail.com
+From: careers@sofindex.com
+Subject: Application Received - Data Scientist | SOFINDEX Careers
+Body Length: 6503 characters
+Headers: MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+From: SOFINDEX Careers <careers@sofindex.com>
+Reply-To: careers@sofindex.com
+X-Mailer: PHP/8.4.11
+================
+
+Email sending result: FAILED
+Applicant email result: FAILED
+=== EMAIL SENDING PROCESS COMPLETED ===
+Admin email: FAILED
+Applicant email: FAILED
+================
+
